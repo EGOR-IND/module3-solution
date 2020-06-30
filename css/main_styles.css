@@ -107,7 +107,7 @@ body {
 /* END OF HOME PAGE */
 
 /* EXTRA SMALL DEVICES */
-@media (min-width: 0px) and (max-width: 575px) {
+@media (min-width: 0px) and (max-width: 767px) {
     .navbar-brand {
         padding-top: 0;
     }
