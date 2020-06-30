@@ -100,6 +100,10 @@ body {
     color: #010736;
     font-weight: bold;
 }
+
+.back-to-top:hover {
+    text-decoration: none;
+}
 /* END OF HOME PAGE */
 
 /* EXTRA SMALL DEVICES */
