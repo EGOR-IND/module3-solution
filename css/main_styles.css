@@ -4,6 +4,7 @@ body {
     color: #fff;
     font-family: 'Oxygen', sans-serif;
     background-color: #fffde7;
+    width: 100vw;
 }
 
 /* HEADER */
@@ -11,7 +12,6 @@ body {
     border-radius: 0;
     border: 0;
     background-color: #f39a02;
-
 }
 
 .navbar-header a {
